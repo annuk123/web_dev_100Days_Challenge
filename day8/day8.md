@@ -1,4 +1,4 @@
-<ul> tag defines an unordered(bulleted/ disc)list. each list start with <li>tag.
+<!-- <ul> tag defines an unordered(bulleted/ disc)list. each list start with <li>tag.
 
 Use the CSS property float:left to display a list horizontally.
 The CSS list-style-type property is used to define the style of the list item maker.
@@ -21,4 +21,4 @@ if you want to start counting from specific number, you can use the "start" attr
 <dl> element to define a description list
 <dt> element to define the description term
 <dd> element to describe the term in a discription list
-
+ -->
