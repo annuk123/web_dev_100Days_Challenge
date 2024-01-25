@@ -1,0 +1,89 @@
+p {
+    outline-color:rgb(0, 106, 255);
+}
+
+p.dotted {
+    outline-style: dotted;
+}
+p.dashed {
+    outline-style: dashed;
+}
+p.solid {
+    outline-style: solid;
+}
+p.double {
+    outline-style: double;
+}
+p.groove {
+    outline-style: groove;
+}
+p.ridge {
+    outline-style: ridge;
+}
+p.inset {
+    outline-style: inset;
+}
+p.outset {
+    outline-style: outset;
+}
+
+p.thin {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(229, 255, 0);
+    outline-width: thin;
+  }
+  
+  p.medium {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(229, 255, 0);
+    outline-width: medium;
+  }
+  
+  p.thick {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(229, 255, 0);
+    outline-width: thick;
+  }
+  
+  p.wid {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(229, 255, 0);
+    outline-width: 4px;
+  }
+
+  p.solid {
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+  }
+  
+  p.dot {
+    border: 2px solid black;
+    outline-style: dotted;
+    outline-color: blue;
+  }
+  
+  p.out {
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: grey;
+  }
+
+  p.off {
+    margin: 30px;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+  }
+
+  p.set {
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+  }
