@@ -1,6 +1,7 @@
 body{
   background-color: rgb(127, 255, 136);
 }
+
 p {
     outline-color:rgb(0, 106, 255);
 }
@@ -8,24 +9,31 @@ p {
 p.dotted {
     outline-style: dotted;
 }
+
 p.dashed {
     outline-style: dashed;
 }
+
 p.solid {
     outline-style: solid;
 }
+
 p.double {
     outline-style: double;
 }
+
 p.groove {
     outline-style: groove;
 }
+
 p.ridge {
     outline-style: ridge;
 }
+
 p.inset {
     outline-style: inset;
 }
+
 p.outset {
     outline-style: outset;
 }
@@ -58,7 +66,7 @@ p.thin {
     outline-width: 4px;
   }
 
-  p.solid {
+  p.solids {
     border: 2px solid black;
     outline-style: solid;
     outline-color: red;
